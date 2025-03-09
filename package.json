@@ -19,12 +19,6 @@
     "vue": "latest"
   },
   "packageManager": "pnpm@10.6.1",
-  "pnpm": {
-    "onlyBuiltDependencies": [
-      "@parcel/watcher",
-      "esbuild"
-    ]
-  },
   "dependencies": {
     "nuxt-maplibre": "^1.0.1"
   }
