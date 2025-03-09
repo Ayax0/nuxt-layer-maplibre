@@ -1,0 +1,3 @@
+<template>
+  <BasicMap />
+</template>
